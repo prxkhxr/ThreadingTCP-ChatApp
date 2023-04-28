@@ -1,6 +1,5 @@
 
 # Chat Application Documentation
-### By Prakhar Saxena 2020CSB1111
 
 This is a chat application built using Python programming language that allows multiple users to join chat rooms and communicate with each other. The application has two parts, the server and the client.
 
